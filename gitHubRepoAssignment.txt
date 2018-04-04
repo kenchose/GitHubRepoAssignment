@@ -1,0 +1,2 @@
+1. Open the created folder and in your command line type git init
+2. 

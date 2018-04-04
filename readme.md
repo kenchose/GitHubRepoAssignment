@@ -1,0 +1,1 @@
+This assignments instructs and shows how to master the use of github and its benefits. This is used to practice the use of github from making a repository to pushing it onto github from our local folder.
